@@ -42,17 +42,17 @@ body, html {
 }
 
 .primg1 {
-    background-image: url(/images/img1.jpg);
+    background-image: url(https://github.com/yutakuma-emoshu/parallax_example/blob/master/images/img1.jpg?raw=true);
     min-height: 100%;
 }
 
 .primg2 {
-    background-image: url(/images/img2.jpg);
+    background-image: url(https://github.com/yutakuma-emoshu/parallax_example/blob/master/images/img2.jpg?raw=true);
     min-height: 500px;
 }
 
 .primg3 {
-    background-image: url(/images/img3.jpg);
+    background-image: url(https://github.com/yutakuma-emoshu/parallax_example/blob/master/images/img3.jpg?raw=true);
     min-height: 500px;
 }
 
